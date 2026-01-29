@@ -11,8 +11,7 @@
 - 🤖 Exploring **Healthcare × Technology**
 - 📊 Curious about **Data & AI for patient and worker safety**
 
-> 임상적 사고를 기반으로,  
-> 기술을 활용해 **더 안전한 의료·산업 현장**을 만드는 데 관심이 있습니다.
+
 
 <br><br>
 
