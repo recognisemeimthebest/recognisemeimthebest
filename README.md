@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-- 🩺 **Nurset**
+- 🩺 **Nurse**
 - 🏥 Interested in **Occupational Health & Safety**
 - 🤖 Exploring **Healthcare × Technology**
 - 📊 Curious about **Data & AI for patient and worker safety**
