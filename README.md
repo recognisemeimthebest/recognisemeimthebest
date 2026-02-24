@@ -1,68 +1,95 @@
-<br>
+# 🏥 Nurse & 💻 Medical AI Developer | recognisemeimthebest
 
-### 👋 About Me
-
-- 🩺 **Nurse** (Licensed)
-- 🏥 Interested in **Occupational Health & Safety**
-- 🤖 Exploring **Healthcare × Technology**
-- 📊 Curious about **Data & AI for patient and worker safety**
-- 💻 Currently learning **Python, JavaScript, React**
-
-<br><br>
+간호학 전공의 임상적 통찰력과 데이터 사이언스 기술을 결합하여,  환자 안전을 위한 **CDSS(임상 의사결정 지원 시스템)** 및 **지능형 의료기기** 개발에 주력하고 있습니다.
 
 ---
 
-<h3 align="center">Healthcare & Nursing Focus 🏥</h3>
-<p align="center">
-  🧠 Occupational Health Nursing <br/>
-  🏗 Industrial Accident Prevention <br/>
-  😷 Workplace Health & Safety <br/>
-  📚 Health Education & Risk Communication <br/>
-  📈 Quality Improvement & Patient Safety
-</p>
+### 🛠 Skills & Interests
+
+#### **Medical AI & Data Science**
+* **Languages:** Python (Pandas, NumPy, Scikit-learn)
+* **Focus:** 의료 데이터 분석, 임상 의사결정 지원 시스템 (CDSS)
+* **Projects:** 응급실 중증도 분류(Triage) 최적화, 방사선 치료 결과 예측 모델
+
+#### **Embedded & Medical IoT**
+* **Hardware:** nRF52840, Seeed XIAO, Raspberry Pi
+* **Sensors:** I2S MEMS Microphones (ICS43434), Audio Codecs (TLV320DAC3100)
+* **Projects:** AI 기반 전자 청진기 (심음 및 폐음 분석 프로토타이핑)
+
+#### **Domain Expertise**
+* **Background:**  간호학과 졸업
+* **Knowledge:**  간호학, 기계공학
 
 ---
 
-<h3 align="center">Tech Stack 🛠</h3>
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-  <br/>
-  <!-- Data / Analysis -->
-  <img src="https://img.shields.io/badge/Data_Analysis-4B8BBE?style=flat-square&logo=Google-Analytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Healthcare_Data-008080?style=flat-square"/>
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"/>
-  <br/>
-  <!-- Exploring -->
-  <img src="https://img.shields.io/badge/AI_in_Healthcare-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Health_Tech-00B4D8?style=flat-square"/>
-</p>
+### 📂 Featured Projects
+
+#### 🎙️ **AI Electronic Stethoscope**
+* **Description:** 하드웨어 설계부터 AI 분석까지 통합된 지능형 청진기 개발.
+* **Tech:** nRF52840, Python, Digital Signal Processing (DSP).
+* **Role:** 센서 데이터 수집 시스템 구축 및 신호 처리 로직 개발.
+
+#### 🧠 **Clinical Decision Support System (CDSS)**
+* **Description:** 의료 빅데이터를 활용한 진단 보조 및 예측 모델링 프로젝트.
+* **Focus:** 응급실 데이터셋을 활용한 중증도 분류 알고리즘 고도화.
 
 ---
 
-<h3 align="center">Projects 🚀</h3>
-<p align="center">
-  사이드 프로젝트를 준비 중입니다. 곧 업데이트 예정
-</p>
+### 🎓 Background & Leadership
+* **Education:** 간호학과 학사 졸업
+* **Leadership:**  간호학과 학생회장 역임
+* **Global Mindset:** 호주 고등학교 졸업 (English Proficiency)
 
 ---
 
-<h3 align="center">GitHub Stats 📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=recognisemeimthebest&show_icons=true&theme=default&hide_border=true"/>
-</p>
+### 📫 Contact & Socials
+* **Email:** (본인의 이메일 주소를 입력하세요)
+* **LinkedIn:** [Your LinkedIn Profile](link)
+
+* # 🏥 Nurse & 💻 Medical AI Developer | recognisemeimthebest
+
+By combining **clinical insights** from a nursing background with **data science technology**, I focus on developing **CDSS (Clinical Decision Support Systems)** and **Intelligent Medical Devices** to enhance patient safety.
 
 ---
 
-<h3 align="center">📫 Contact</h3>
-<p align="center">
-  ✉️ Email: your_email@example.com <br/>
-  🔗 GitHub: <a href="https://github.com/recognisemeimthebest">github.com/recognisemeimthebest</a>
-</p>
+### 🛠 Skills & Interests
+
+#### **Medical AI & Data Science**
+* **Languages:** Python (Pandas, NumPy, Scikit-learn)
+* **Focus:** Medical Data Analysis, Clinical Decision Support Systems (CDSS)
+* **Projects:** ER Triage Optimization, Radiation Therapy Outcome Prediction Models
+
+#### **Embedded & Medical IoT**
+* **Hardware:** nRF52840, Seeed XIAO, Raspberry Pi
+* **Sensors:** I2S MEMS Microphones (ICS43434), Audio Codecs (TLV320DAC3100)
+* **Projects:** AI-powered Electronic Stethoscope (Heart & Lung Sound Analysis Prototyping)
+
+#### **Domain Expertise**
+* **Background:** B.S. in Nursing
+* **Knowledge:** Nursing Science, Mechanical Engineering
+
+---
+
+### 📂 Featured Projects
+
+#### 🎙️ **AI Electronic Stethoscope**
+* **Description:** Developed an end-to-end intelligent stethoscope, from hardware design to AI-based analysis.
+* **Tech Stack:** nRF52840, Python, Digital Signal Processing (DSP).
+* **Role:** Built sensor data acquisition systems and developed signal processing logic.
+
+#### 🧠 **Clinical Decision Support System (CDSS)**
+* **Description:** Medical big data project for diagnostic assistance and predictive modeling.
+* **Focus:** Enhancing triage algorithms using emergency department datasets.
+
+---
+
+### 🎓 Background & Leadership
+* **Education:** Bachelor of Science in Nursing (B.S.N.)
+* **Leadership:** Former President of the Student Council (Nursing Dept.)
+* **Global Mindset:** High school graduate from Australia (Fluent in English)
+
+---
+
+### 📫 Contact & Socials
+* **Email:** (Your Email Address Here)
+* **LinkedIn:** [Your LinkedIn Profile](link)
